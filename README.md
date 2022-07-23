@@ -7,3 +7,5 @@
 - [Scrabble Exercise](scrabble/Instruction.md)
 - [Luhn algorithm](luhn/Instruction.md)
 - [Parallel Letter Frequency](parallel_letter_frequency/Instruction.md)
+- [Tree building](luhn/Instruction.md)
+- [Robot name](luhn/Instruction.md)
